@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExHandle", "samples\ExHandle\ExHandle.csproj", "{501EFE77-2DA8-459D-8B3B-F958C17B1FDA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{D981BEAE-4D8C-49B2-850C-A1E6AD712D4C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4759C28F-E933-43F2-A5DF-BA9F3429330A}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{501EFE77-2DA8-459D-8B3B-F958C17B1FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501EFE77-2DA8-459D-8B3B-F958C17B1FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501EFE77-2DA8-459D-8B3B-F958C17B1FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501EFE77-2DA8-459D-8B3B-F958C17B1FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{501EFE77-2DA8-459D-8B3B-F958C17B1FDA} = {D981BEAE-4D8C-49B2-850C-A1E6AD712D4C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02B37838-12BD-434A-98EE-54560146AA03}
+	EndGlobalSection
+EndGlobal
